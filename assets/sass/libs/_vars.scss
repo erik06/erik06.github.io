@@ -1,12 +1,13 @@
 // Misc.
+	$bg-gradient: linear-gradient(to top, #09203f 0%, #537895 100%);
 	$misc: (
-		bg:					#3C6F8B, //#348cb2, //url("images/bg-chicago.jpg") bottom left,
+		bg:	$bg-gradient,	//			#3C6F8B, //#348cb2, //url("images/bg-chicago.jpg") bottom left,
 		bg-width:			1500px
 	);
 
 // Duration.
 	$duration: (
-		bg:					6s,
+		bg:					0s,
 		wrapper:			3s,
 		overlay:			1.5s,
 		header:				1s,
