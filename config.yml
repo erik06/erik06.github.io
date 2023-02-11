@@ -1,0 +1,111 @@
+baseurl: "/"
+metaDataFormat: yaml
+title: Blist Multilingual Theme
+
+menu:
+  main:
+    - name: Blog
+      url: /blog/
+      weight: 1
+    - name: About
+      url: /about/
+      weight: 2
+    - name: Tags
+      url: /tags/
+      weight: 3
+    - name: Top Post
+      url: /blog/emoji-support/
+      weight: 4
+
+params:
+  introTitle: Hey! I'm Katheryn Fox
+  introSubtitle: >-
+    26 y/o junior developer who enjoys social card games, blogging and
+    painting
+  introPhoto: /picture.jpg
+  logo: /blist-logo.png
+  darkModeToggle: true
+  enableSearch: true
+  searchKeys:
+    - tags
+    - date
+    - categories
+    - summary
+    - content
+    - link
+    - author
+  copyright: Copyright © 2021 - Katheryn Fox · All rights reserved
+  favicon: /favicon.svg
+  ascentColor: bg-blue-100
+  frontBundle: blog
+  hideMeta: false
+  hideOtherLanguages: false
+  toc: true
+  hidePageThumbnail: false
+  comments:
+    system: giscus
+    repo: ""
+    repoid: ""
+    category: ""
+    categoryid: ""
+    mapping: ""
+    strict: ""
+    reactionsenabled: ""
+    emitmetadata: ""
+    inputposition: ""
+    theme: ""
+  homepage:
+    social:
+      title: Follow me
+      description: I work on everything coding and tweet developer memes
+      icons:
+        - website: twitter
+          url: "https://twitter.com/"
+        - website: linkedin
+          url: "https://linkedin.com/in/"
+        - website: xing
+          url: "https://www.xing.com/profile/"
+        - website: telegram
+          url: "https://t.me/"
+        - website: github
+          url: "https://github.com/"
+        - website: buymeacoffee
+          url: "https://www.buymeacoffee.com/"
+        - website: medium
+          url: "https://medium.com/"
+        - website: reddit
+          url: "https://reddit.com/"
+        - website: dribbble
+          url: "https://dribbble.com/"
+        - website: stackoverflow
+          url: "https://stackoverflow.com/"
+        - website: xda
+          url: "https://forum.xda-developers.com/"
+        - website: tiktok
+          url: "https://tiktok.com"
+        - website: googlescholar
+          url: "https://scholar.google.com/"
+        - website: mastodon
+          url: "https://joinmastodon.org"
+        - website: youtube
+          url: "https://youtube.com"
+        - website: instagram
+          url: "https://instagram.com"
+        - website: facebook
+          url: "https://facebook.com"
+        - website: behance
+          url: "https://behance.net"
+
+build:
+  writeStats: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+markup:
+  highlight:
+    style: dracula
+  goldmark:
+    renderer:
+      unsafe: true
