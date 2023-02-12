@@ -1,0 +1,86 @@
+# toml-docs-start main
+copyright = "Copyright © 2023 Mark Dumay."
+enableGitInfo = true
+paginate = 9
+title = "Hinode"
+# toml-docs-end main
+
+# additional settings
+baseURL = "/"
+canonifyURLs = false
+enableEmoji = true
+enableInlineShortcodes = true
+enableRobotsTXT = true
+
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors = ["error-remote-getjson"]
+
+# toml-docs-start build
+timeout = "60s"
+# toml-docs-end build
+
+# toml-docs-start language
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+disableLanguages = ['nl']
+languageCode = "en-us"
+# toml-docs-end language
+
+[taxonomies]
+tag = 'tags'
+
+[privacy]
+[privacy.vimeo]
+disabled = false
+simple = true
+
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
+
+[privacy.instagram]
+disabled = false
+simple = true
+
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
+
+[services]
+[services.instagram]
+disableInlineCSS = true
+[services.twitter]
+disableInlineCSS = true
+
+[outputFormats]
+[outputFormats.XML]
+isHtml = false
+isPlainText = false
+mediaType = "application/xml"
+name = "xml"
+noUgly = true
+permalinkable = false
+
+[module]
+[module.hugoVersion]
+extended = true
+max = ""
+min = "0.81.0"
+[[module.mounts]]
+source = "assets"
+target = "assets"
+[[module.mounts]]
+source = "static"
+target = "static"
+# toml-docs-start javascript
+[[module.mounts]]
+includeFiles = "*.bundle.js"
+source = "node_modules/bootstrap/dist/js"
+target = "assets/js/vendor/bootstrap"
+[[module.mounts]]
+includeFiles = "*.bundle.js"
+source = "node_modules/flexsearch/dist"
+target = "assets/js/vendor/flexsearch"
+# toml-docs-end javascript
