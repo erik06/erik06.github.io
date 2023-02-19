@@ -1,6 +1,6 @@
 ---
 author: Mark Dumay
-title: Welcome to Hinode!
+title: Erik06 Portfolio
 ---
 
-A clean documentation and blog theme for your Hugo site based on Bootstrap 5.
+I'm a front-end web developer and current MIT xPro student.
