@@ -95,11 +95,11 @@ As an example, the following shortcode displays a group of three buttons.
 
 ## Card
 
-As an example, the following shortcode displays a stacked card with icon that links to the [about]({{< ref "about" >}}) page. It includes a custom header and footer.
+As an example, the following shortcode displays a stacked card with icon that links to the [contact]({{< ref "contact" >}}) page. It includes a custom header and footer.
 
 <!-- markdownlint-disable MD037 -->
 {{< example lang="hugo" >}}
-{{</* card path="about" padding="3" class="w-50" color="light" header="publication" footer="none" */>}}
+{{</* card path="contact" padding="3" class="w-50" color="light" header="publication" footer="none" */>}}
 {{< /example >}}
 <!-- markdownlint-enable MD037 -->
 
@@ -192,7 +192,7 @@ As an example, the following shortcode displays a light navigation header.
 
 <!-- markdownlint-disable MD037 -->
 {{< example lang="hugo" >}}
-{{</* navbar path="about" color="primary" size="sm" search="false" menus="sample" title="Brand" */>}}
+{{</* navbar path="contact" color="primary" size="sm" search="false" menus="sample" title="Brand" */>}}
 {{< /example >}}
 <!-- markdownlint-enable MD037 -->
 
