@@ -1,8 +1,8 @@
 # toml-docs-start main
 [main]
     separator = "-"
-    description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
-    enableDarkMode = true
+    description = "Erik is a front-end developer based in Chicago."
+    enableDarkMode = false
 # toml-docs-end main
 
 # toml-docs-start docs
@@ -21,7 +21,7 @@
 # toml-docs-start navigation
 [navigation]
     logo = "/img/logo_icon.svg"
-    color = "body"
+    color = "light"
     style = "light"
     fixed = true
     offset = "4em"
@@ -65,14 +65,15 @@
 
 # toml-docs-start theme-colors
 [style]
-    primary = "#D43900"
-    secondary = "#6c757d"
+    primary = "#f06449ff"
+    secondary = "#5BC3EB"
     success = "#198754"
     info = "#0dcaf0"
     warning = "#ffc107"
     danger = "#dc3545"
-    light = "#f8f9fa"
-    dark = "#212529"
+    light = "#DADAD9"
+    dark = "#36382E"
+    background = "#EDE6E3"
 # toml-docs-end theme-colors
     themeOpacity = "10"
 # toml-docs-start font

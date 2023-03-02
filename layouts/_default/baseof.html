@@ -6,7 +6,7 @@
         {{ block "head" . }}{{ end -}}
     </head>
 
-    <body>
+    <body style="background-color: {{ .Site.Params.style.background }};">
         <div class="d-flex flex-column min-vh-100">
             <div class="{{ if .Site.Params.navigation.fixed }}mb-4{{ end }}">
                 {{- partial "assets/navbar.html" (dict

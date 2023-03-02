@@ -56,7 +56,7 @@
 {{- $inverseStyle := "light" -}}
 {{- if eq $style "light" }}{{ $inverseStyle = "dark" }}{{ end -}}
 
-{{- $color := "" -}}
+{{- $color := "#DADAD9" -}}
 {{- with .color -}}
     {{- $color = . -}}
     {{- $supportedColors := slice "primary" "secondary" "success" "danger" "warning" "info" "light" "dark" "white" "black" "body" -}}
