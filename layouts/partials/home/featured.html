@@ -2,10 +2,16 @@
     <div class="row row-cols-1 row-cols-sm-3 align-items-center pt-5 pb-5 h-100 position-relative z-1 text-light">
         <div class="col col-md-2 d-none d-md-block"></div>
         <div class="col col-sm-6 col-md-4 text-center text-sm-start">
+            <img src="https://www.gravatar.com/avatar/0b463dbfb070e4e3fe3cc7443f8ec9eb?s=244" alt="an image of Erik Slagter" class="rounded-circle w-25 border mb-3">
             <p class="fs-1 fw-bold">{{ .Title }}</p>
             <p>{{ .Content }}</p>
             {{ if .Site.Params.feature.link }}
-            <p><a class="btn btn-primary" href="{{ .Site.Params.feature.link | safeURL }}" role="button">{{ .Site.Params.feature.caption | default (T "about") }}</a></p>
+            <p><a class="btn btn-primary" href="{{ .Site.Params.feature.link | safeURL }}" target="_blank" role="button">{{ .Site.Params.feature.caption | default (T "about") }}</a>
+                {{ if .Site.Params.feature2.link }}
+                <a class="btn btn-primary" href="{{ .Site.Params.feature2.link | safeURL }}" target="_blank" role="button">{{ .Site.Params.feature2.caption | default (T "about") }}</a>
+                {{ end }}
+                <a class="btn btn-primary" href="/contact" target="_blank" role="button">Contact Me</a>
+            </p>
             {{ end }}
         </div>
         <div class="col col-sm-6 col-md-4">

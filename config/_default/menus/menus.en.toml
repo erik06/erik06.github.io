@@ -9,20 +9,20 @@ url = "/blog/"
 weight = 20
 
 [[main]]
-name = "Projects"
-url = "/projects/"
+name = "Github Projects"
+url = "/github-projects/"
 weight = 10
 
 [[main]]
 name = "Sample project"
-parent = "Projects"
-url = "/projects/sample-project/"
+parent = "Github Projects"
+url = "/github-projects/sample-project/"
 weight = 1
 
 [[main]]
 name = "Another project"
-parent = "Projects"
-url = "/projects/another-project/"
+parent = "Github Projects"
+url = "/github-projects/another-project/"
 weight = 2
 
 
@@ -51,19 +51,19 @@ url = "/blog/"
 weight = 10
 
 [[sample]]
-name = "Projects"
-url = "/projects/"
+name = "Github Projects"
+url = "/github projects/"
 weight = 20
 
 [[sample]]
 name = "Sample project"
-parent = "Projects"
-url = "/projects/sample-project/"
+parent = "Github Projects"
+url = "/github projects/sample-project/"
 weight = 1
 
 [[sample]]
 name = "Another project"
-parent = "Projects"
-url = "/projects/another-project/"
+parent = "Github Projects"
+url = "/github projects/another-project/"
 weight = 2
 # toml-docs-end sample-navigation

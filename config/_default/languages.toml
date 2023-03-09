@@ -8,12 +8,15 @@
     [en.params.head]
         tagline = "A Hugo Theme"
     [en.params.feature]
-        link = "/about"
-        caption = "About"
+        link = "https://github.com/erik06"
+        caption = "GitHub"
+    [en.params.feature2]
+        link = "https://www.linkedin.com/in/slagtererik/"
+        caption = "Linked In"
     [en.params.footer]
         license = ""
         socialTitle = "Follow me"
-        socialCaption = "I work on everything coding and tweet developer memes"
+        socialCaption = "I'm interested in books, bikes, black cats, architecture and all things Chicago!"
 # toml-docs-end lang-param
 
 [nl]
