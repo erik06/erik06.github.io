@@ -6,7 +6,7 @@
 # toml-docs-end lang-main
 # toml-docs-start lang-param
     [en.params.head]
-        tagline = "A Hugo Theme"
+        tagline = "erik06 GitHub Portfolio"
     [en.params.feature]
         link = "https://github.com/erik06"
         caption = "GitHub"
