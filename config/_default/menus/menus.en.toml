@@ -13,17 +13,17 @@ name = "Github Projects"
 url = "/github-projects/"
 weight = 10
 
-[[main]]
-name = "Sample project"
-parent = "Github Projects"
-url = "/github-projects/sample-project/"
-weight = 1
+# [[main]]
+# name = "Sample project"
+# parent = "Github Projects"
+# url = "/github-projects/sample-project/"
+# weight = 1
 
-[[main]]
-name = "Another project"
-parent = "Github Projects"
-url = "/github-projects/another-project/"
-weight = 2
+# [[main]]
+# name = "Another project"
+# parent = "Github Projects"
+# url = "/github-projects/another-project/"
+# weight = 2
 
 
 [[social]]
