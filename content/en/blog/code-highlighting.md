@@ -7,6 +7,7 @@ tags: ["code"]
 thumbnail: img/notepad.jpg
 photoCredits: <a href="https://unsplash.com/@frederickjmedina">Frederick Medina</a>
 photoSource: <a href="https://unsplash.com/photos/PdfRE-xB--s">Unsplash</a>
+draft: true
 ---
 
 ## Code Fencing
@@ -24,7 +25,7 @@ Use code fencing to highlight the syntax of a specific language.
 
 ```html
 <div class="highlight">
-    <pre>
+  <pre>
         <code>some code...</code>
     </pre>
 </div>
@@ -46,13 +47,13 @@ Use the `highlight` shortcode to customize the layout of a specific code block.
 //
 // If an unknown or empty style is provided, AP style is what you get.
 func GetTitleFunc(style string) func(s string) string {
-  switch strings.ToLower(style) {
-  case "go":
-    return strings.Title
-  case "chicago":
-    return transform.NewTitleConverter(transform.ChicagoStyle)
-  default:
-    return transform.NewTitleConverter(transform.APStyle)
-  }
+switch strings.ToLower(style) {
+case "go":
+return strings.Title
+case "chicago":
+return transform.NewTitleConverter(transform.ChicagoStyle)
+default:
+return transform.NewTitleConverter(transform.APStyle)
+}
 }
 {{< / highlight >}}
