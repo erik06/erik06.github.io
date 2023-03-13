@@ -33,6 +33,18 @@
 
 # toml-docs-start list
 [list]
+    [github-projects]
+        title = "GitHub Projects"
+        sort = "title"
+        reverse = false
+        cols = 3
+        color = ""
+        padding = "3"
+        header = "none"
+        footer = "tags"
+        orientation = "stacked"
+        style = "border-1 card-emphasize"
+        homepage = 3
     [blog]
         title = "Blog"
         sort = "date"
@@ -44,18 +56,6 @@
         footer = "none"
         orientation = "stacked"
         style = "border-0"
-        homepage = 3
-    [github-projects]
-        title = "GitHub Projects"
-        sort = "title"
-        reverse = false
-        cols = 1
-        color = ""
-        padding = "3"
-        header = "none"
-        footer = "tags"
-        orientation = "none"
-        style = "border-1 card-emphasize"
         homepage = 3
 # toml-docs-end list
 
