@@ -2,7 +2,7 @@
 author: Erik Slagter
 title: Real Time Train Tracker
 date: 2021-03-12
-description: a MIT xPro GitHub project.
+description: Watch as the map animates stops on the Chicago Red Line
 tags: ["javascript", "animation", "mapbox"]
 thumbnail: "https://images.unsplash.com/photo-1615003382517-58a0b93dcbe4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80" # https://picsum.photos/id/1060/5598/3732
 ---
