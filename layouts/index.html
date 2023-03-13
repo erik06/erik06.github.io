@@ -11,7 +11,7 @@
             {{- $sectionURL = $page.Parent.RelPermalink -}}
         {{- end -}}
 
-        {{- $moreTitle := (T (printf "more%s" (strings.FirstUpper $section))) -}}
+        {{- $moreTitle := (printf "More %s" ( $section | humanize )) | title -}}
 
         {{- partial "assets/section-list.html" (dict 
             "page" $page 
