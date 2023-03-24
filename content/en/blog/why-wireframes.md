@@ -3,7 +3,7 @@ author: Erik Slagter
 title: Why start software with wireframes
 date: 2023-02-14
 description: Planning software starts with basic shapes
-tags: ["wireframe", "software"]
+tags: ["wireframes", "software"]
 thumbnail: img/paper.jpg
 photoCredits: <a href="https://www.pexels.com/@picjumbo-com-55570/">picjumbo.com</a>
 photoSource: <a href="https://www.pexels.com/photo/blue-pen-beside-black-smartphone-on-white-paper-196646/">Pexels</a>

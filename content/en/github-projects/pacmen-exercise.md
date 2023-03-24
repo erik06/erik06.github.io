@@ -1,7 +1,7 @@
 ---
 author: Erik Slagter
 title: Pacmen Exercise
-date: 2021-03-12
+date: 2023-03-12
 description: A pacmen factory where pacmen bounce off the walls
 tags: ["javascript", "animation"]
 thumbnail: "https://images.unsplash.com/photo-1521913626209-0fbf68f4c4b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80" # https://picsum.photos/id/1060/5598/3732
