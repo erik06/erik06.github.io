@@ -3,7 +3,7 @@ author: Erik Slagter
 title: Native iOS development vs frameworks like React Native
 description: React Native vs native iOS development
 tags: ["react", "react native", "iOS"]
-date: 2022-01-14
+date: 2023-01-14
 thumbnail: img/phone.jpg # https://picsum.photos/id/160/3200/2119
 photoCredits: <a href="https://unsplash.com/@thomweerd">Thom</a>
 photoSource: <a href="https://unsplash.com/photos/Zdcq3iKly6g">Unsplash</a>

@@ -35,7 +35,7 @@
 [list]
     [github-projects]
         title = "GitHub Projects"
-        sort = "title"
+        sort = "date"
         reverse = false
         cols = 3
         color = ""
@@ -55,7 +55,7 @@
         header = "full"
         footer = "none"
         orientation = "stacked"
-        style = "border-0"
+        style = "border-1"
         homepage = 3
 # toml-docs-end list
 
@@ -83,17 +83,17 @@
 
 [schema]
     type = "Organization"
-    name = "Hinode"
+    name = ""
     locale = "en-US"
     # twitter = "https://twitter.com/gethinode"
     # linkedIn = ""
-    github = "https://github.com/gethinode/hinode"
+    # github = "https://github.com/gethinode/hinode"
     section = "blog"
     [author]
-        name = "Mark Dumay"
-        # twitter = "https://twitter.com/markdumay"
-        linkedin = "https://www.linkedin.com/in/markdumay/"
-        github = "https://github.com/markdumay"
+        name = "Erik Slagter"
+        witter = "https://twitter.com/https://twitter.com/erikslagter"
+        linkedin = "https://www.linkedin.com/in/slagtererik/"
+        github = "https://github.com/erik06"
     [logo]
         url = "img/logo512x512.png"
         width = 512
