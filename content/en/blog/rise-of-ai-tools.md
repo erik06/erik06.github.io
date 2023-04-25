@@ -3,7 +3,7 @@ author: Erik Slagter
 title: The New Frontier of Front-End Web Development
 date: 2023-04-14
 description: ChatGPT and GitHub Code Pilot
-tags: ["ai", "software"]
+tags: ["ai", "software", "machine learning"]
 thumbnail: "https://images.unsplash.com/photo-1496096265110-f83ad7f96608?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80"
 ---
 
