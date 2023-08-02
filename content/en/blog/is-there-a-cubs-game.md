@@ -19,6 +19,8 @@ As someone who lives in this bustling neighborhood, I've experienced firsthand t
 
 Recognizing the need for real-time information, I created an app designed specifically for residents like us. This app is not for baseball fans, but rather for anyone who wants to stay in the loop with what's happening in the Wrigleyville area.
 
+Follow [the X/Twitter account](https://twitter.com/isthereacubsgme) for updates on game times.
+
 It's a time-based platform that keeps you updated with:
 
 - **Game Star Times**: Be prepared for pre-game traffic and congestion!
