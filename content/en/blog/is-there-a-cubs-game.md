@@ -1,14 +1,10 @@
 ---
 author: Erik Slagter
-title: Chicago Open Data
+title: Chicago Cubs and Wrigley Field
 date: 2023-07-15
-description: Get to know Chicago by the data
+description: Living near the stadium is a unique experience. Here's how my app can help.
 tags: ["api", "chicago", "app"]
-thumbnail: "https://images.unsplash.com/photo-1477414956199-7dafc86a4f1a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80"
----
-
-Certainly! Here's the blog post:
-
+thumbnail: "https://images.unsplash.com/photo-1534258698732-f4f27981a92b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
 ---
 
 ### Living Near Wrigley Field: A Unique Experience and How My App Can Help
@@ -21,13 +17,13 @@ As someone who lives in this bustling neighborhood, I've experienced firsthand t
 
 #### Introducing My App
 
-Recognizing the need for real-time information, I created an app designed specifically for residents like us. This app is not just for baseball fans, but for anyone who wants to stay in the loop with what's happening in Wrigleyville.
+Recognizing the need for real-time information, I created an app designed specifically for residents like us. This app is not for baseball fans, but rather for anyone who wants to stay in the loop with what's happening in the Wrigleyville area.
 
 It's a time-based platform that keeps you updated with:
 
-- **Traffic Updates**: No more guessing how to navigate around game-day traffic!
-- **Local News**: Stay informed with what's happening around the neighborhood.
-- **Upcoming Events**: From community gatherings to concerts, never miss out on local events.
+- **Game Star Times**: Be prepared for pre-game traffic and congestion!
+- **Local**: Stay informed with what's happening around the neighborhood.
+- **Upcoming Events**: From games to concerts, never miss out on local congestion.
 
 #### The Perks of Living Near Wrigley Field
 
@@ -39,11 +35,10 @@ But Wrigleyville is not just about baseball. There's so much more:
 - **Parks and Lakefront Views**: Enjoy scenic beauty all year round.
 - **Community Vibes**: Connect with friendly neighbors and local businesses.
 
-#### Conclusion
+#### The Brass Tax
 
 Living near Wrigley Field is a thrilling, dynamic experience. It's not without its challenges, but with the app I've developed, you can stay connected and informed. Whether you're a die-hard Cubs fan or simply enjoy the energetic atmosphere of Lakeview/Wrigleyville, my app can help you make the most of life here.
 
-Feel free to reach out with any feedback or suggestions. Together, we can make Wrigleyville an even better place to live.
-
+Feel free to reach out with any feedback or suggestions. Soon I'll be introducing the Ticketmaster API instead of the MLB API, therefore capturing all events at Wrigley Field, not just baseball games.
 
 {{< button color="primary" href="https://isthereacubsga.me" >}}Visit the Site{{< /button >}}
