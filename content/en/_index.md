@@ -3,4 +3,4 @@ author: Mark Dumay
 title: erik06 GitHub Portfolio
 ---
 
-Hello, I’m Erik and I’m a front-end web developer and user experience designer with a varied history of working in many industries. My specialties include user interface design and user experience. As a team lead, I also have experience running a small team of front-end developers, graphic designers and user experience designers in an agile environment. I am currently in a part-time technology bootcamp with MIT xPro learning the MERN technology stack.
+Hi there! I'm Erik—a seasoned front-end web developer and UX designer with a diverse background spanning multiple industries. My expertise lies in user interface design and crafting stellar user experiences. As a team leader, I've steered a dynamic group of front-end developers, graphic designers, and UX experts in agile settings. Presently, I'm expanding my skills at the MIT xPro technology bootcamp, diving deep into the MERN technology stack.
