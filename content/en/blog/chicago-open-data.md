@@ -7,7 +7,7 @@ tags: ["data", "chicago"]
 thumbnail: "https://images.unsplash.com/photo-1477414956199-7dafc86a4f1a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80"
 ---
 
-# Exploring the Open Chicago Data Portal: A Treasure Trove of Public Data
+## Exploring the Open Chicago Data Portal: A Treasure Trove of Public Data
 
 Chicago, the third-largest city in the United States, is a city that thrives on data. To make this data accessible to the public, the city has created the Open Chicago Data Portal. This portal is a comprehensive resource for accessing a wide range of datasets related to the city's operations and services.
 
