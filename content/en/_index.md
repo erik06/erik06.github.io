@@ -1,6 +1,6 @@
 ---
-author: Mark Dumay
+author: Erik Slagter
 title: erik06 GitHub Portfolio
 ---
 
-Hi there! I'm Erik—a seasoned front-end web developer and UX designer with a diverse background spanning multiple industries. My expertise lies in user interface design and crafting stellar user experiences. As a team leader, I've steered a dynamic group of front-end developers, graphic designers, and UX experts in agile settings. Presently, I'm expanding my skills at the MIT xPro technology bootcamp, diving deep into the MERN technology stack.
+Hello! I'm Erik, a proficient front-end web developer and UX designer with a broad experience across various sectors. My core strengths are in developing intuitive user interfaces and delivering exceptional user experiences. My recent experience as a former team leader has enriched my skills in guiding diverse teams of front-end developers, graphic designers, and UX professionals, primarily in agile environments. Additionally my recent educational achievement includes completing the MIT xPro technology bootcamp, where I gained extensive knowledge in the MERN technology stack. This education, combined with my hands-on experience, equips me to tackle complex web development challenges with a user-centered approach.
