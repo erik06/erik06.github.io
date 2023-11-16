@@ -13,7 +13,7 @@
 
 # toml-docs-start home
 [home]
-    sections = ["blog", "github-projects"]
+    sections = ["blog", "portfolio"]
     featurePhoto = "/img/sunrise.jpg" # source: https://unsplash.com/photos/ZX6BPboJrYk
     fullCover = false
 # toml-docs-end home
@@ -33,8 +33,20 @@
 
 # toml-docs-start list
 [list]
-    [github-projects]
-        title = "GitHub Projects"
+    # [github-projects]
+    #     title = "GitHub Projects"
+    #     sort = "date"
+    #     reverse = false
+    #     cols = 3
+    #     color = ""
+    #     padding = "3"
+    #     header = "none"
+    #     footer = "tags"
+    #     orientation = "stacked"
+    #     style = "border-1 card-emphasize"
+    #     homepage = 3
+    [portfolio]
+        title = "Portfolio"
         sort = "date"
         reverse = false
         cols = 3

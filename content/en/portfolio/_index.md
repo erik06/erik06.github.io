@@ -1,4 +1,4 @@
 ---
 author: Erik Slagter
-title: GitHub Projects
+title: Portfolio
 ---

@@ -9,9 +9,9 @@ url = "/blog/"
 weight = 20
 
 [[main]]
-name = "Github Projects"
-url = "/github-projects/"
-weight = 10
+name = "Portfolio"
+url = "/portfolio/"
+weight = 15
 
 # [[main]]
 # name = "Sample project"
