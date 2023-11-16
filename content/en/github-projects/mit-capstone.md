@@ -26,6 +26,8 @@ To meticulously present the various components and functionalities of my project
 
 I faced some challenges during the deployment phase, but I effectively overcame them by employing problem-solving skills and technical acumen, ensuring the successful launch of the application. Reflecting on the project, I contemplated on the methodologies and considered what could be done differently if I were to start the project anew, ensuring continuous learning and improvement. The project not only allowed me to create and interact with a database and integrate React with a back-end GraphQL API powered by Strapi but also honed my abilities to build a full-stack web application using the MERN Stack.
 
+*Please note that the live site may take up to 3 mins to "warm up" on your first visit*
+
 {{< button color="primary" href="https://github.com/erik06/MIT-capstone" >}}
 View Repository
 {{< /button >}}
